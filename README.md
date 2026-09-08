@@ -22,7 +22,7 @@ Busco transformar o conhecimento adquirido durante a graduação em **projetos p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,postgresql,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,postgresql,linux,aws,git,github,vscode&perline=11" />
 
 </div>
 
@@ -35,9 +35,9 @@ Busco transformar o conhecimento adquirido durante a graduação em **projetos p
 | 💻 Desenvolvimento | 🗄️ Banco de Dados | 🧪 Testes |
 |:---:|:---:|:---:|
 | Java | PostgreSQL | JUnit |
-| Python | SQL | Selenium |
+| Python | SQL | Testes de Software |
 | HTML / CSS | Modelagem de Dados | Automação |
-| POO | Transações | Testes de Software |
+| POO | Transações | |
 
 </div>
 
