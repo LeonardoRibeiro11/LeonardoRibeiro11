@@ -76,10 +76,10 @@ Projetos e experimentos envolvendo SQL, bancos de dados relacionais, transaçõe
 ## 🌱 Atualmente estudando
 
 - ☕ Java
+- 🌱 Spring Boot
 - 🐧 Linux
 - ☁️ Computação em Nuvem com AWS
 - 🧪 Testes de Software
-- 🔐 Cibersegurança
 ---
 
 ## 🎯 Áreas de interesse
