@@ -55,13 +55,11 @@ Projeto desenvolvido para praticar desenvolvimento web e criação de interfaces
 
 ---
 
-### 🖥️ Atividades de Desenvolvimento Web
+### 🔨 Próximos projetos
 
-Repositório com projetos e atividades desenvolvidos durante meus estudos de desenvolvimento web.
+Atualmente desenvolvendo projetos próprios para aplicar e aprofundar meus conhecimentos em **Java, Spring Boot, PostgreSQL, testes e computação em nuvem**.
 
-**Tecnologias:** `HTML` `CSS`
-
-🔗 [Ver projeto](https://github.com/LeonardoRibeiro11/Atividade_HTML)
+> Em breve, novos projetos estarão disponíveis aqui.
 
 ---
 
