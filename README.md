@@ -51,8 +51,9 @@ Projeto desenvolvido para praticar desenvolvimento web e criação de interfaces
 
 **Tecnologias:** `HTML` `CSS`
 
-🔗 [Ver projeto](https://github.com/LeonardoRibeiro11/portfolio-web)
+🌐 [Ver portfólio online](https://leonardoribeiro11.github.io/portfolio-web/)
 
+📁 [Ver código no GitHub](https://github.com/LeonardoRibeiro11/portfolio-web)
 ---
 
 ### 🔨 Próximos projetos
