@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Leonardo Ribeiro
 
-### 💻 Estudante de Ciência da Computação | Desenvolvedor em formação
+### 💻 Estudante de Engenharia de Software | Desenvolvedor em formação
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardoRibeiro11&style=for-the-badge&color=6C63FF&label=VISITAS+AO+PERFIL)
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação, interessado em desenvolvimento de software, programação e bancos de dados.
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação, interessado em desenvolvimento de software, programação e bancos de dados.
 
 Busco transformar o conhecimento adquirido durante a graduação em **projetos práticos**, desenvolvendo minhas habilidades em programação, desenvolvimento web, bancos de dados e engenharia de software.
 
@@ -75,18 +75,23 @@ Projetos e experimentos envolvendo SQL, bancos de dados relacionais, transaçõe
 
 ## 🌱 Atualmente estudando
 
-- ☕ Java e Programação Orientada a Objetos
-- 🗄️ PostgreSQL e bancos de dados
-- 🌐 Desenvolvimento Web
-- 🧪 Testes de Software e automação
-- 🧩 Engenharia de Software
-- ⚡ Algoritmos e Estruturas de Dados
+- ☕ Java
+- 🐧 Linux
+- ☁️ Computação em Nuvem com AWS
+- 🧪 Testes de Software
+- 🔐 Cibersegurança
+---
 
+## 🎯 Áreas de interesse
+
+- 🔐 Cibersegurança
+- ☁️ Computação em Nuvem
+- 💻 Desenvolvimento de Software
 ---
 
 ## 📊 GitHub
 
-Meu perfil reúne projetos e atividades desenvolvidos ao longo da minha formação em Ciência da Computação.
+Meu perfil reúne projetos e atividades desenvolvidos ao longo da minha formação em Engenharia de Software.
 
 - 📁 Projetos acadêmicos e pessoais
 - 💻 Desenvolvimento em diferentes tecnologias
