@@ -63,14 +63,6 @@ Atualmente desenvolvendo projetos próprios para aplicar e aprofundar meus conhe
 
 ---
 
-### 🗄️ Estudos com PostgreSQL
-
-Projetos e experimentos envolvendo SQL, bancos de dados relacionais, transações, níveis de isolamento e otimização de consultas.
-
-**Tecnologias:** `PostgreSQL` `SQL`
-
----
-
 ## 🌱 Atualmente estudando
 
 - ☕ Java
@@ -89,12 +81,12 @@ Projetos e experimentos envolvendo SQL, bancos de dados relacionais, transaçõe
 
 ## 📊 GitHub
 
-Meu perfil reúne projetos e atividades desenvolvidos ao longo da minha formação em Engenharia de Software.
+Meu perfil reúne projetos próprios e estudos desenvolvidos ao longo da minha formação em Engenharia de Software.
 
-- 📁 Projetos acadêmicos e pessoais
-- 💻 Desenvolvimento em diferentes tecnologias
-- 🗄️ Estudos com bancos de dados
-- 🧪 Práticas de testes e automação
+- 📁 Projetos pessoais
+- 💻 Desenvolvimento de software
+- 🗄️ Bancos de dados
+- 🧪 Testes e qualidade de software
 ---
 
 ## 🎯 Objetivo
