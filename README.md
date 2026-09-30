@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou Leonardo Ribeiro
+# Leonardo Ribeiro
 
-### 💻 Estudante de Engenharia de Software | Desenvolvedor em formação
+### Estudante de Engenharia de Software | Foco em Backend com Java
 
-![Profile Views](https://komarev.com/ghpvc/?username=LeonardoRibeiro11&style=for-the-badge&color=6C63FF&label=VISITAS+AO+PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-link])
+[![Email](https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email])
 
 </div>
 
@@ -12,9 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software** e desenvolvedor em formação, interessado em desenvolvimento de software, programação e bancos de dados.
+Estudante de Engenharia de Software, com foco em backend, bancos de dados e Linux. Uso o que aprendo na graduação para construir projetos práticos.
 
-Busco transformar o conhecimento adquirido durante a graduação em **projetos práticos**, desenvolvendo minhas habilidades em programação, desenvolvimento web, bancos de dados e engenharia de software.
+Buscando estágio em desenvolvimento backend (Java / Spring Boot).
 
 ---
 
@@ -22,82 +23,44 @@ Busco transformar o conhecimento adquirido durante a graduação em **projetos p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,postgresql,linux,aws,git,github,vscode&perline=11" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,linux,git,github,idea&perline=7" />
 
 </div>
 
----
-
-## 📚 Conhecimentos
-
-<div align="center">
-
-| 💻 Desenvolvimento | 🗄️ Banco de Dados | 🧪 Testes |
-|:---:|:---:|:---:|
-| Java | PostgreSQL | JUnit |
-| Python | SQL | Testes de Software |
-| HTML / CSS | Modelagem de Dados | Automação |
-| POO | Transações | |
-
-</div>
+**Conceitos:** POO, modelagem de dados, REST APIs, Spring Security, JWT, BCrypt, testes com JUnit
 
 ---
 
 ## 🚀 Projetos
 
-### 🌐 Portfolio Web
+### Sistema de Gerenciamento de Acesso (em desenvolvimento)
 
-Projeto desenvolvido para praticar desenvolvimento web e criação de interfaces utilizando HTML e CSS.
+API REST para gerenciar usuários e controlar o acesso a um sistema, com autenticação e autorização baseadas em Spring Security e JWT.
 
-**Tecnologias:** `HTML` `CSS`
+- Login e autenticação stateless com JWT e filtro de validação de token
+- Autorização por roles (controle de acesso por perfil)
+- Senhas armazenadas com BCrypt e nunca expostas nas respostas da API
+- DTOs para separar a entidade do que a API expõe
+- Persistência com PostgreSQL e JPA, com entidades e relacionamentos
+- Arquitetura em camadas: Controllers, Services e Repositories
+- Endpoints testados com Postman
 
-🌐 [Ver portfólio online](https://leonardoribeiro11.github.io/portfolio-web/)
+**Stack:** `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
 
-📁 [Ver código no GitHub](https://github.com/LeonardoRibeiro11/portfolio-web)
----
-
-### 🔨 Próximos projetos
-
-Atualmente desenvolvendo projetos próprios para aplicar e aprofundar meus conhecimentos em **Java, Spring Boot, PostgreSQL, testes e computação em nuvem**.
-
-> Em breve, novos projetos estarão disponíveis aqui.
-
----
-
-## 🌱 Atualmente estudando
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🐧 Linux
-- ☁️ Computação em Nuvem com AWS
-- 🧪 Testes de Software
----
-
-## 🎯 Áreas de interesse
-
-- 🔐 Cibersegurança
-- ☁️ Computação em Nuvem
-- 💻 Desenvolvimento de Software
----
-
-## 📊 GitHub
-
-Meu perfil reúne projetos próprios e estudos desenvolvidos ao longo da minha formação em Engenharia de Software.
-
-- 📁 Projetos pessoais
-- 💻 Desenvolvimento de software
-- 🗄️ Bancos de dados
-- 🧪 Testes e qualidade de software
----
-
-## 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, construindo projetos cada vez mais completos e adquirindo experiência prática para ingressar profissionalmente na área de tecnologia.
+Repositório privado por enquanto, será aberto quando estiver concluído.
 
 ---
 
-<div align="center">
+### Portfólio Web
 
-### 💻 Code • Learn • Build • Repeat
+Site pessoal criado para praticar desenvolvimento web e criação de interfaces.
 
-</div>
+**Stack:** `HTML` `CSS`
+
+[Ver online](https://leonardoribeiro11.github.io/portfolio-web/) | [Código no GitHub](https://github.com/LeonardoRibeiro11/portfolio-web)
+
+---
+
+## 🌱 Estudando agora
+
+Java e Spring Boot, testes de software, Linux, AWS e segurança de aplicações (autenticação, autorização, JWT).
